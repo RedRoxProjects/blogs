@@ -18,7 +18,7 @@ Now one word of advice, always do a quick check of your directions before you le
 
 Now as a UK hackathon attendee I'm used to going into big lecture halls and seeing around 100-200 people chattering away with smiles as they look forward to starting projects with their friends. HackUPC appeared to have double this - I don't know the exact numbers but I did know this hack attracts around 500 people everytime and boy was that something to experience. Seeing so many people buzzing with the same excitement as myself was just fantastic and I couldn't wait for the weekend to begin. 
 
-[The opening ceremony at HackUPC](/img/opening.jpg)
+![The opening ceremony at HackUPC](img/opening.jpg)
 
 We heard from the organisers, sponsors and partners of HackUPC in the introduction to the 36 hours of hacking. There were some great challenges, and the messages from everyone reminded hackers to have fun, rest plenty and find a mentor if they needed help. 
 
@@ -36,11 +36,11 @@ The only downside to this first day was that we had appeared to bring the Britis
 
 When I returned in the morning, the rain had stopped and the sun was shining, which made for a pleasant walk up to the campus. I took a picture on my way in of the university campus. 
 
-[The UPC Campus in the Sunshine](img/campus.jpg)
+![The UPC Campus in the Sunshine](img/campus.jpg)
 
 I'd missed the breakfast, but when I approached our building I could smell the paella cooking for our lunch and it smelt good!! 
 
-[The Scrummy Paella!](img/paella.jpg)
+![The Scrummy Paella!](img/paella.jpg)
 
 When I got up to the room where I had been the previous evening the hack was in full swing, with teams huddled together working on their hacks - everyone there was so nice! They even put up (and even joined in) with the Brits errupting in applause every few hours when making jokes or applauding success on a hack. It was entertaining to say the least to share this experience, even with our language barriers everyone was laughing and joining in! 
 
@@ -51,7 +51,7 @@ I hadn't exactly decided on a hack idea, my workload had been stressful of late 
 It was my first hackathon as a GitHub Campus Expert and people loved this Guess Who Game I created - I got loads of engagement from people which was really nice (I love meeting new people!) The game was a webpage where I posted pictures of Octocats from the Octodex but they were just silouettes so you could only see 
 the outline. Once I posted them I sent a message to all of the hackers through the HackUPC slack and ask people to guess them and send me a message with their guess, GitHub username and details for a chance to win a GitHub Campus Expert sticker from me. 
 
-[The awesome Campus Expert Sticker](img/experts.jpg)
+![The awesome Campus Expert Sticker](img/experts.jpg)
 
 People were super quick at guessing and I barely had time to update correct guesses before getting another 4-6 messages with more guesses! 
 
@@ -91,7 +91,7 @@ I hope to revisit for the Fall edition.
 
 Here's some pictures from my trip! 
 
-[Me & Yuvesh enjoying the city](img/ahh.jpg)
-[Me at Sagrada Familia](img/familia.jpg)
-[Our group on the metro](img/group.jpg)
-[Student represent in their GitHub hoodies](img/hooded.jpg) 
+![Me & Yuvesh enjoying the city](img/ahh.jpg)
+![Me at Sagrada Familia](img/familia.jpg)
+![Our group on the metro](img/group.jpg)
+![Student represent in their GitHub hoodies](img/hooded.jpg) 
