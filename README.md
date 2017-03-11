@@ -1,8 +1,8 @@
 # blogs
 
-## Blogs from events I've been to &lt;3 :octocat:
+## Blogs from events I've been to :purple_heart: :octocat:
 
-# HackUPC Blog
+# HackUPC 3rd - 5th March 2017
 
 Hack UPC is a bi-annual hackathon held at (University name) in the city of Barcelona. This hack attracts a large audience of students from all over Europe and follows the 36 hour format which is not for the feint hearted. 
 
