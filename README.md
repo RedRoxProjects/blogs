@@ -18,7 +18,7 @@ Now one word of advice, always do a quick check of your directions before you le
 
 Now as a UK hackathon attendee I'm used to going into big lecture halls and seeing around 100-200 people chattering away with smiles as they look forward to starting projects with their friends. HackUPC appeared to have double this - I don't know the exact numbers but I did know this hack attracts around 500 people everytime and boy was that something to experience. Seeing so many people buzzing with the same excitement as myself was just fantastic and I couldn't wait for the weekend to begin. 
 
-[The opening ceremony at HackUPC](img/opening.jpg)
+[The opening ceremony at HackUPC](/img/opening.jpg)
 
 We heard from the organisers, sponsors and partners of HackUPC in the introduction to the 36 hours of hacking. There were some great challenges, and the messages from everyone reminded hackers to have fun, rest plenty and find a mentor if they needed help. 
 
