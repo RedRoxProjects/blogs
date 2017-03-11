@@ -93,5 +93,5 @@ Here's some pictures from my trip!
 
 ![Me & Yuvesh enjoying the city](img/ahh.jpg)
 ![Me at Sagrada Familia](img/familia.jpg)
-![Our group on the metro](img/group.jpg)
+![Our group on the metro](img/group.png)
 ![Student represent in their GitHub hoodies](img/hooded.jpg) 
