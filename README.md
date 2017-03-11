@@ -51,7 +51,7 @@ I hadn't exactly decided on a hack idea, my workload had been stressful of late 
 It was my first hackathon as a GitHub Campus Expert and people loved this Guess Who Game I created - I got loads of engagement from people which was really nice (I love meeting new people!) The game was a webpage where I posted pictures of Octocats from the Octodex but they were just silouettes so you could only see 
 the outline. Once I posted them I sent a message to all of the hackers through the HackUPC slack and ask people to guess them and send me a message with their guess, GitHub username and details for a chance to win a GitHub Campus Expert sticker from me. 
 
-![The awesome Campus Expert Sticker](img/experts.jpg)
+![The awesome Campus Expert Sticker](img/experts.JPG)
 
 People were super quick at guessing and I barely had time to update correct guesses before getting another 4-6 messages with more guesses! 
 
