@@ -57,7 +57,7 @@ People were super quick at guessing and I barely had time to update correct gues
 
 The last two were guessed in less than a minute and each of the attendees made their way to me with directions to look for my bright red Campus Expert hoody, to come and grab their sticker (meaning they got to stretch their legs and take a much needed screen break - these things are important folks!)
 
-Thanks to everyone who took part in the [game](http://dickensa.github.io/HackUPC_GuessWho) - it was fun to meet you all! 
+Thanks to everyone who took part in the [game](http://dickensa.github.io/hackathon_guess_who) - it was fun to meet you all! (I'm now updating this for every hackathon I go to - so don't be surprised if the link changes from time to time!) 
 
 Following having a great time putting the game together I was spurred on to do something with my time and actually build a hack - go me :laughing:. I figured it was high time I learnt how to build a webpage from scratch instead of relying on templates (that said templates can be super useful for setting up something quickly). 
 
