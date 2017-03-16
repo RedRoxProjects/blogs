@@ -4,7 +4,7 @@
 
 # HackUPC 3rd - 5th March 2017
 
-Hack UPC is a bi-annual hackathon held at (University name) in the city of Barcelona. This hack attracts a large audience of students from all over Europe and follows the 36 hour format which is not for the feint hearted. 
+Hack UPC is a bi-annual hackathon held at [Universitat Politècnica de Catalunya](http://www.upc.edu/?set_language=en) in the city of Barcelona. This hack attracts a large audience of students from all over Europe and follows the 36 hour format which is not for the feint hearted. 
 
 I attended HackUPC over the 3rd - 5th March 2017 as a GitHub Campus Expert and Hacker - this is a blog post about my experience. 
 
